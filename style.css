@@ -1,0 +1,11 @@
+* {
+  font-family: 'Roboto';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(#0f2b05, #000000);
+  height: 100vh;
+}
